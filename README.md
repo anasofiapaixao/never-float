@@ -9,8 +9,8 @@ never-float was conceived with the goal of helping people leave the ghost of IE6
 `npm install never-float`
 
 ## Importing to your project
-`import neverFloat from 'never-float'` ES6 style import
+`import 'never-float';` ES6 style import
 
-`require('never-float')` CommonJS style import
+`require('never-float');` CommonJS style import
 
 Issues and PRs welcome!

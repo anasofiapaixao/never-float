@@ -1,0 +1,14 @@
+# package cache
+/**/node_modules
+/**/package-lock.json
+/**/yarn.lock
+/**/yarn-error.log
+
+# eclipse settings
+/**/.classpath
+/**/.project
+/**/.settings/
+
+# intellij settings
+/**/.idea/
+/**/*.iml
