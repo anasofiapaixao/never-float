@@ -7,6 +7,9 @@ never-float was conceived with the goal of helping people leave the ghost of IE6
 
 If somebody has put this as a dependency in your project, you probably deserved it. If you did it yourself as a penance of sorts, you probably deserved it too.
 
+## Important note
+This project is a joke. Please do not take it seriously. Do, however, take its message seriously and, unless you are sticking an image in the middle of a long text, _leave float alone_.
+
 ## Installing from npm
 `npm install never-float`
 
